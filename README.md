@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 ## Objective
-Build a Tic-Tac-Toe game incorporating the web technologies and techniques you've worked with thus far:
+Build a Tic-Tac-Toe game incorporating theses web technologies and techniques:
 
 HTML<br>
 CSS<br>
