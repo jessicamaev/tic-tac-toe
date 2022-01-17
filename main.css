@@ -1,0 +1,68 @@
+
+/*styling*/
+
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #2C2F33;
+}
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    color: white;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* game board 3 columns and 3 rows */
+.game-board {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 150px 150px 150px;
+    border: 1px solid #3498DB;
+    
+}
+
+/* styling each box */
+.game {
+    background-color: #2C2F33;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+/* center */
+
+section, h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    
+}
+
+.reset {
+    border-radius: 20px;
+    
+}
+
+p{
+    text-transform: uppercase;
+}
+
+
