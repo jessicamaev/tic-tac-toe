@@ -8,4 +8,4 @@ Read more about the game [here](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
 ## Play 
 
-[Play](https://jessicamaev.github.io/tic-tac-toe/)
+[Play Now](https://jessicamaev.github.io/tic-tac-toe/)
